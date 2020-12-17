@@ -6,6 +6,16 @@ Our data science team is continually challenging our machine learning algorithms
 
 In this challenge, we invite Kagglers to help us identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted. The data provided for this competition has the same structure as the real data we have available to solve this problem.
 
+
+Table of Contents of The Notebook
+-Summary
+-Load Libraries and Dataset
+-Exploratory Data Analysis
+-Data Preparation
+-Modelling
+-Kaggle Submission
+-Results
+
 ## Summary
 In this Kaggle competition the Santander Bank wants to predict "*which customers will make a specific transaction in the future, irrespective of the amount of money transacted.*" [ [Link to the competition](https://www.kaggle.com/c/santander-customer-transaction-prediction) ]
 
