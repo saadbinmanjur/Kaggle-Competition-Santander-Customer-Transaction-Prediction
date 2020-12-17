@@ -8,13 +8,14 @@ In this challenge, we invite Kagglers to help us identify which customers will m
 
 
 Table of Contents of The Notebook
--Summary
--Load Libraries and Dataset
--Exploratory Data Analysis
--Data Preparation
--Modelling
--Kaggle Submission
--Results
+
+- Summary
+- Load Libraries and Dataset
+- Exploratory Data Analysis
+- Data Preparation
+- Modelling
+- Kaggle Submission
+- Results
 
 ## Summary
 In this Kaggle competition the Santander Bank wants to predict "*which customers will make a specific transaction in the future, irrespective of the amount of money transacted.*" [ [Link to the competition](https://www.kaggle.com/c/santander-customer-transaction-prediction) ]
