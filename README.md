@@ -38,4 +38,4 @@ After re-training the model with all the data and submitting the test data to Ka
 As next steps, a deeper look into the outliers would be a good idea. I tried to use a 3 times the Standard Deviation approach to identify outliers but it was deleting the whole dataset... Also, I didn't perform any data reduction since the models could handle all the dataset. However, experimenting with this would also be a good next step.
 
 ## Dataset
-Due to limited size of GitHub dataset upload ability here I link to dataset from my Kaggle [ [Santander Customer Transaction Prediction Dataset](https://www.kaggle.com/saadbinmanjuradit/santander-customer-transaction-prediction-dataset) ]
+Due to limited size of GitHub dataset upload ability here I link to dataset from my Kaggle [Santander Customer Transaction Prediction Dataset](https://www.kaggle.com/saadbinmanjuradit/santander-customer-transaction-prediction-dataset)
