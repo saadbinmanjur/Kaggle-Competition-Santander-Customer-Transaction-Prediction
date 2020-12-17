@@ -22,7 +22,7 @@ Table of Contents of The Notebook
 ## Summary
 In this Kaggle competition the Santander Bank wants to predict "*which customers will make a specific transaction in the future, irrespective of the amount of money transacted.*" [ [Link to the competition](https://www.kaggle.com/c/santander-customer-transaction-prediction) ]
 
-The best score in Kaggle is 0.92573 (as of 27 July 2020), and I achieved a score of 0.80469. 
+I achieved a score of 0.80469. 
 
 It seems the data has been duplicated with "fake" observations and in order to get a score over 0.90 a "magic" feature needs to be created (e.g. see [this notebook](https://www.kaggle.com/cdeotte/200-magical-models-santander-0-920)). My focus in this notebook is not to find this "magic" feature, but to go through the data science process. Nonetheless, I did some experiments and it was an interesting learning experience, and perhaps something to explore further in the future. 
 
